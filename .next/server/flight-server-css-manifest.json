@@ -1,0 +1,22 @@
+{
+  "cssImports": {
+    "/Users/meddo/Documents/re-coded/react/playground/next-routing-exercise/app/layout.js": [
+      "/Users/meddo/Documents/re-coded/react/playground/next-routing-exercise/app/globals.css",
+      "/Users/meddo/Documents/re-coded/react/playground/next-routing-exercise/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  },
+  "cssModules": {
+    "/Users/meddo/Documents/re-coded/react/playground/next-routing-exercise/app/page": [
+      "/Users/meddo/Documents/re-coded/react/playground/next-routing-exercise/app/globals.css",
+      "/Users/meddo/Documents/re-coded/react/playground/next-routing-exercise/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/meddo/Documents/re-coded/react/playground/next-routing-exercise/app/users/page": [
+      "/Users/meddo/Documents/re-coded/react/playground/next-routing-exercise/app/globals.css",
+      "/Users/meddo/Documents/re-coded/react/playground/next-routing-exercise/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/meddo/Documents/re-coded/react/playground/next-routing-exercise/app/users/[id]/page": [
+      "/Users/meddo/Documents/re-coded/react/playground/next-routing-exercise/app/globals.css",
+      "/Users/meddo/Documents/re-coded/react/playground/next-routing-exercise/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
