@@ -1,6 +1,6 @@
 import React from 'react'
 
-function loading() {
+function Loading() {
   return (
     <div className='flex justify-center'>
       <div className='loader'>
@@ -10,4 +10,4 @@ function loading() {
   )
 }
 
-export default loading
+export default Loading

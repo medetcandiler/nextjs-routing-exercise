@@ -4,7 +4,7 @@ import Link from 'next/link';
 import getUser from '@/lib/getUser';
 import getUserPosts from '@/lib/getUserPosts'
 
-function page({ params }) {
+function User({ params }) {
   const [ isLoading, setIsLoading ] = useState(true)
   const [ user, setUser ] = useState([]);
   const [ posts, setPosts] = useState();
@@ -66,4 +66,4 @@ function page({ params }) {
   )
 }
 
-export default page
+export default User;

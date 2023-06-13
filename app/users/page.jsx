@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import getAllUsers from "../../lib/getAllUsers";
 import Link from "next/link";
 
-function page() {
+function Users() {
   const [users, setUsers] = useState([]);
 
   useEffect(() => {
@@ -32,4 +32,4 @@ function page() {
   );
 }
 
-export default page;
+export default Users;
