@@ -17,7 +17,7 @@ This project is a Next.js application built to practice using Next.js features s
 ---
 
 ## You can also see the project on CodeSandbox!
-[https://form-validation-app-chi.vercel.app/]([https://lucent-cajeta-67be77.netlify.app/](https://codesandbox.io/p/sandbox/next-routing-forked-64s7zr?file=%2Fapp%2Fpage.tsx%3A6%2C14))
+[Click here to see the project on CodeSandbox]([https://lucent-cajeta-67be77.netlify.app/](https://codesandbox.io/p/sandbox/next-routing-forked-64s7zr?file=%2Fapp%2Fpage.tsx%3A1%2C1))
 
 ---
 
